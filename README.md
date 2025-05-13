@@ -1,2 +1,3 @@
 # AI-resume-builder
-create ats friendly resuem
+create ats friendly resume
+
